@@ -1,4 +1,4 @@
-# ASN2_Student_Resource
+# Employee-Processing-Program
 
 A human resource (HR) department of ABC Pte Ltd has been processing their new employee onboarding
 manually for the past 10 years. The following are their manual tasks for a new employee onboarding.
