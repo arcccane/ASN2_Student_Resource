@@ -1,0 +1,17 @@
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.csprojAssemblyReference.cache
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionA.exe
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionB.exe
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionB.deps.json
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionB.runtimeconfig.json
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionB.runtimeconfig.dev.json
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionB.dll
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionB.pdb
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionA.dll
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\bin\Debug\netcoreapp3.1\SectionA.pdb
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.csproj.CopyComplete
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.dll
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.pdb
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionB\obj\Debug\netcoreapp3.1\SectionB.genruntimeconfig.cache

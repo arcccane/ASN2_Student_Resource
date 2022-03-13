@@ -1,0 +1,13 @@
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.csprojAssemblyReference.cache
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\bin\Debug\netcoreapp3.1\SectionA.exe
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\bin\Debug\netcoreapp3.1\SectionA.deps.json
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\bin\Debug\netcoreapp3.1\SectionA.runtimeconfig.json
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\bin\Debug\netcoreapp3.1\SectionA.runtimeconfig.dev.json
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\bin\Debug\netcoreapp3.1\SectionA.dll
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\bin\Debug\netcoreapp3.1\SectionA.pdb
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.dll
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.pdb
+C:\Users\ronal\OneDrive\Year2\ADVANCED PROGRAMMING\ASN2_Student_Resource\SectionA\obj\Debug\netcoreapp3.1\SectionA.genruntimeconfig.cache
